@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\bin\Debug\net5.0\HashTableMC.exe
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\bin\Debug\net5.0\HashTableMC.deps.json
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\bin\Debug\net5.0\HashTableMC.runtimeconfig.json
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\bin\Debug\net5.0\HashTableMC.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\bin\Debug\net5.0\HashTableMC.dll
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\bin\Debug\net5.0\HashTableMC.pdb
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\HashTableMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\HashTableMC.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\HashTableMC.AssemblyInfo.cs
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\HashTableMC.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\HashTableMC.dll
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\refint\HashTableMC.dll
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\HashTableMC.pdb
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\HashTableMC.genruntimeconfig.cache
+C:\Users\sasha\source\repos\HashTableMC\HashTableMC\obj\Debug\net5.0\ref\HashTableMC.dll
